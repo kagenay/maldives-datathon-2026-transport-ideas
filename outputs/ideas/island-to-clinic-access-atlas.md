@@ -23,11 +23,11 @@ Select an origin island, weekday, departure time and maximum travel time; the ma
 
 ## Data plan
 
-**Available now / collectable by the team:** Island population (island_id, resident_population, age group where published) from [Census 2022](https://statisticsmaldives.gov.mv/census-2022-results-summary/); island positions from [OpenStreetMap](https://www.openstreetmap.org/) after manual validation; public route/stop/departure/arrival times from [RTL](https://www.rtl.mv/) sampled and attributed. Pilot: two atolls and Greater Malé; census fixed, schedules checked before demo.
+**Available now / collectable by the team:** Island population (island_id, resident_population, age group where published) from [Census 2022](https://statisticsmaldives.gov.mv/census-2022-results-summary/); island positions from [OpenStreetMap](https://www.openstreetmap.org/) after manual validation; public route/stop/departure/arrival times from [RTL](https://www.rtl.mv/) sampled and attributed. Pilot: two outlying atolls, where sea access remains structurally important; census fixed, schedules checked before demo.
 
 **Future data to collect and method:** Agency would publish machine-readable service calendar, trip_id, stop_id, scheduled and actual arrival/departure, cancellation, transfer guarantee and facility referral capability. Operators log each trip at dispatch and arrival; health agency updates facility capability quarterly. Refresh trips daily and actuals after each sailing.
 
-**Geographic coverage:** Pilot — two atolls and Greater Malé; later all inhabited islands.
+**Geographic coverage:** Pilot — two outlying atolls; later all inhabited islands. Do not use Greater Malé's changing bridge network as the core ferry case.
 
 **Update frequency:** Census 2022 is a fixed release; where used, take a dated [OpenStreetMap](https://www.openstreetmap.org/) snapshot. Recheck any public timetable, fare or alert immediately before presentation. Team observations are one-off pilot snapshots. The future collection cadence is specified above; no live feed is assumed for the demo.
 

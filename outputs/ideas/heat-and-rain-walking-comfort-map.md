@@ -1,6 +1,6 @@
 # Heat-and-Rain Walking Comfort Map
 
-**Pitch.** Locate exposed walks to bus stops and ferry terminals where shade or shelter would help the most people.
+**Pitch.** Locate exposed walks to bus stops, schools and clinics where shade or shelter would help the most people.
 
 **Type:** Original  
 **Research status:** 23 September 2026; concept document. Comparable Maldivian implementation status is assessed below.
@@ -27,7 +27,7 @@ Walking network colored by observed cover and exposure; select a stop, time of d
 
 **Future data to collect and method:** Council crews survey segment_id, shelter width/condition, usable covered length, obstruction and maintenance status twice yearly; anonymous pedestrian counts by hour quarterly.
 
-**Geographic coverage:** Pilot — one Greater Malé walking corridor; later bus and ferry catchments.
+**Geographic coverage:** Pilot — one Greater Malé walking corridor; later bus, school and clinic catchments.
 
 **Update frequency:** Census 2022 is a fixed release; where used, take a dated [OpenStreetMap](https://www.openstreetmap.org/) snapshot. Recheck any public timetable, fare or alert immediately before presentation. Team observations are one-off pilot snapshots. The future collection cadence is specified above; no live feed is assumed for the demo.
 

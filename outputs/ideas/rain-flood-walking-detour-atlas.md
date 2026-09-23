@@ -1,13 +1,13 @@
 # Rain-Flood Walking Detour Atlas
 
-**Pitch.** Show how localized flooding changes safe walking access to ferry terminals, clinics and bus stops.
+**Pitch.** Show how localized flooding changes safe walking access to bus stops, schools and clinics in Greater Malé.
 
 **Type:** Original  
 **Research status:** 23 September 2026; concept document. Comparable Maldivian implementation status is assessed below.
 
 ## Problem, users and decision
 
-A flooded low point can create a long detour even where straight-line access is short. Councils need a maintenance and drainage priority map.
+A flooded low point can create a long detour even where straight-line access is short. Councils need a maintenance and drainage priority map for everyday road-connected trips.
 
 **Decision supported:** Which drainage or raised-crossing intervention most restores access during heavy rain?
 
